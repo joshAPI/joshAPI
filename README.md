@@ -18,14 +18,4 @@ I’m a 17-year-old developer still in high school, building full-stack applicat
 - Experimenting with new technologies
 - Turning ideas into real, usable projects
 
-   $$$$$\                     $$\        $$$$$$\  $$$$$$$\ $$$$$$\ 
-   \__$$ |                    $$ |      $$  __$$\ $$  __$$\\_$$  _|
-      $$ | $$$$$$\   $$$$$$$\ $$$$$$$\  $$ /  $$ |$$ |  $$ | $$ |  
-      $$ |$$  __$$\ $$  _____|$$  __$$\ $$$$$$$$ |$$$$$$$  | $$ |  
-$$\   $$ |$$ /  $$ |\$$$$$$\  $$ |  $$ |$$  __$$ |$$  ____/  $$ |  
-$$ |  $$ |$$ |  $$ | \____$$\ $$ |  $$ |$$ |  $$ |$$ |       $$ |  
-\$$$$$$  |\$$$$$$  |$$$$$$$  |$$ |  $$ |$$ |  $$ |$$ |     $$$$$$\ 
- \______/  \______/ \_______/ \__|  \__|\__|  \__|\__|     \______|
-                                                                   
-                                                                   
-                                                                   
+<img width="524" height="184" alt="image" src="https://github.com/user-attachments/assets/06b9c0a7-2061-4692-b724-a35619012c33" />
