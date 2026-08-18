@@ -18,4 +18,5 @@ I’m a 17-year-old developer still in high school, building full-stack applicat
 - Experimenting with new technologies
 - Turning ideas into real, usable projects
 
-<img width="524" height="184" alt="image" src="https://github.com/user-attachments/assets/06b9c0a7-2061-4692-b724-a35619012c33" />
+<img width="524" height="184" alt="image" src="https://github.com/user-attachments/assets/b3df6b45-9adc-41ea-bc55-7e1edc9ad91f" />
+
